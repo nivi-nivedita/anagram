@@ -1,0 +1,1 @@
+write a programe using string to check whether the word is anagram or not
