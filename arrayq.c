@@ -1,0 +1,1 @@
+write a c-program  to check whether the arrays are equal or not
